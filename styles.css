@@ -1,0 +1,85 @@
+div {
+    color: rgb(197, 197, 197);
+    background-color:rgb(20,20,20);
+    font-family: verdana, sans-serif;
+    font-size: 20px;
+    margin: auto;
+    width: 50%;
+}
+
+
+.getbig {
+    font-family:'Times New Roman', sans-serif;
+    font-size: 22px;
+    background-color: rgb(32, 32, 32);
+    
+}
+
+.getbig:hover {
+    font-size: 26px;
+}
+
+.headerlol {
+
+    color:rgb(218, 218, 218);
+    background-color: rgb(26, 26, 26);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn1,.romantic,.kitty { transition-duration: 0.4s;
+
+    
+ }
+ 
+.btn1 {
+    color:rgb(255, 255, 255);
+    background-color:rgb(83, 118, 231);
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    padding: 14px 26px;
+    border: 2px solid rgb(83, 118, 231);
+    font-weight: bold;
+
+}
+ 
+.btn1:hover {
+    
+    font-size: 24px;
+    padding: 16px 28px;
+    
+}
+
+.romantic {
+    color:rgb(255, 255, 255);
+    background-color:rgb(83, 118, 231);
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    padding: 14px 26px;
+    border: 2px solid rgb(83, 118, 231);
+    font-weight: bold;
+
+
+}
+
+.romantic:hover {
+    
+    font-size: 24px;
+    padding: 16px 28px;
+    
+}
+
+
+.kitty {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: auto;
+}
+
+.kitty:hover {
+    width: 900px;
+    height: auto;
+}
